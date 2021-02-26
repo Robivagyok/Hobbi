@@ -1,0 +1,43 @@
+body{
+    background-image:url(csocso2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: black;
+}
+
+.jumbotron{
+    background-color: 232, 232, 232;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+    
+}
+.responsive {
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+  }
+
+  .container-fluid{
+      background-color: white;
+  }
+  #divegy{
+      background-color: white;
+  }
+  p{
+      text-align: justify;
+  }
+  .kepkeret {
+    max-width: 375px;
+    width: auto;
+    float: right;
+    text-align: center;
+    font-size: 75%;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px gray;  
+    border: 2px solid darkblue;
+    font-style: italic;
+  }
